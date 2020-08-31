@@ -5,6 +5,8 @@ This site is a work in progress, it will document my trading journey and resourc
 
 I intend to update this Jekyll theme template and add a blog area to share and track progress as well in the near future!
 
+![](https://purepng.com/public/uploads/thumbnail//man-skydiving-using-parachute-q18.png)
+
 Or follow me on twitter [![Twitter Follow](https://img.shields.io/twitter/follow/bstevensondev.svg?style=social)](https://twitter.com/skydivetrader1)  
 
 

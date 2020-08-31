@@ -7,6 +7,6 @@ I intend to update this Jekyll theme template and add a blog area to share and t
 
 ![](https://purepng.com/public/uploads/thumbnail//man-skydiving-using-parachute-q18.png)
 
-Or follow me on twitter ![Twitter Follow](https://img.shields.io/twitter/follow/skydivetrader1.svg)
+Or follow me on twitter ![Twitter Follow](https://img.shields.io/twitter/follow/skydivetrader1?label=skydivetrader1&style=social)
 
 

@@ -11,12 +11,12 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 ### Courses in progress
 
-[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome)
+[Coursera - Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome)
 
-[Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4752656#overview) 
+[Udemy - Microsoft Excel: Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4752656#overview) 
 
-[Statistics and probability](https://www.khanacademy.org/math/statistics-probability) 
+[Khan Academy - Statistics and probability](https://www.khanacademy.org/math/statistics-probability) 
 
-[Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
+[Khan Academy - Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
 [EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)

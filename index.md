@@ -18,3 +18,5 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) 
 
 [Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
+
+[EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)

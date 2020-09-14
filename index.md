@@ -20,3 +20,5 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 [Khan Academy - Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
 [EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)
+
+[Markplex - EasyLanguage tutorials for TradeStation](https://markplex.com/free-tutorials/)

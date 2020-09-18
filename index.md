@@ -22,3 +22,4 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 [EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)
 
 [Markplex - EasyLanguage tutorials for TradeStation](https://markplex.com/free-tutorials/)
+[How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html)

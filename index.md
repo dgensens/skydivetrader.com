@@ -13,8 +13,6 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 [Coursera - Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
 
-[Udemy - Microsoft Excel: Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4752656#overview) 
-
 [Khan Academy - Statistics and probability](https://www.khanacademy.org/math/statistics-probability) 
 
 [Khan Academy - Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
@@ -27,4 +25,7 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 [How to Think like a Data Scientist: Second Edition](https://runestone.academy/runestone/books/published/httlads/index.html)
 
-[Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond)
+[Udemy - Microsoft Excel: Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/) 
+
+[Games With Go](https://gameswithgo.org/)
+

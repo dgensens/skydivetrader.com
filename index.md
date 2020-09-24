@@ -26,3 +26,5 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 [How to Think like a Data Scientist: Second Edition](https://runestone.academy/runestone/books/published/httlads/index.html)
+
+[Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond)

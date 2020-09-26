@@ -17,7 +17,11 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 [Khan Academy - Economics: Finance and capital markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
+[Udemy - Microsoft Excel: Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/) 
+
 [EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)
+
+## Future Interest
 
 [Markplex - EasyLanguage tutorials for TradeStation](https://markplex.com/free-tutorials/)
 
@@ -25,7 +29,7 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 [How to Think like a Data Scientist: Second Edition](https://runestone.academy/runestone/books/published/httlads/index.html)
 
-[Udemy - Microsoft Excel: Excel from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/) 
+[Jack Mott - Games With Go](https://gameswithgo.org/)
 
-[Games With Go](https://gameswithgo.org/)
+
 

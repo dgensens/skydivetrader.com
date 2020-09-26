@@ -9,7 +9,7 @@ I intend to update this Jekyll theme template and add a blog area to share and t
 
 Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydivetrader1?label=skydivetrader1&style=social)](https://twitter.com/skydivetrader1)
 
-### Courses in progress
+### Study in progress
 
 [Coursera - Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
 
@@ -21,6 +21,10 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 
 [EDX - Data Analysis & Statistics: The Analytics Edge](https://www.edx.org/course/the-analytics-edge)
 
+[Russian Language - Tutoring](https://aruspro.com/russian-learning-methodology)
+
+[Trading - Small Account Building](https://www.smash-the-bid.com/home/)
+
 ## Future Interest
 
 [Markplex - EasyLanguage tutorials for TradeStation](https://markplex.com/free-tutorials/)
@@ -30,6 +34,5 @@ Or follow me on twitter [![Twitter](https://img.shields.io/twitter/follow/skydiv
 [How to Think like a Data Scientist: Second Edition](https://runestone.academy/runestone/books/published/httlads/index.html)
 
 [Jack Mott - Games With Go](https://gameswithgo.org/)
-
 
 

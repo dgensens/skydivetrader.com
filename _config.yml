@@ -1,5 +1,1 @@
 theme: jekyll-theme-minimal
-# Add links to the sidebar.
-menu: 
-  - title:             Courses
-    url:               /courses/
